@@ -1,0 +1,22 @@
+{
+  "name": "eatj_express",
+  "version": "1.0.0",
+  "description": "To run this example, 1. npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcai/express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcai/express/issues"
+  },
+  "homepage": "https://github.com/gcai/express#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
